@@ -11,9 +11,11 @@ public class Main {
             nome.add(scanner.next());
         }
         int cont=1;
+        System.out.printf("Remova algum produto: ");
+        nome.remove(scanner.next());
         for(String f : nome){
             System.out.printf("\nNumero: %d e Produto: %s",cont,f);
-          cont++;
+            cont++;
+        }
     }
-    }
- }
+}
