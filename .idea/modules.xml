@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lista Arrays  ArrayLists e HashMaps.iml" filepath="$PROJECT_DIR$/Lista Arrays  ArrayLists e HashMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex10/ex10.iml" filepath="$PROJECT_DIR$/ex10/ex10.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex2/ex2.iml" filepath="$PROJECT_DIR$/ex2/ex2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex3/ex3.iml" filepath="$PROJECT_DIR$/ex3/ex3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex4/ex4.iml" filepath="$PROJECT_DIR$/ex4/ex4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex5/ex5.iml" filepath="$PROJECT_DIR$/ex5/ex5.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex6/ex6.iml" filepath="$PROJECT_DIR$/ex6/ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex7/ex7.iml" filepath="$PROJECT_DIR$/ex7/ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex8/ex8.iml" filepath="$PROJECT_DIR$/ex8/ex8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex9/ex9.iml" filepath="$PROJECT_DIR$/ex9/ex9.iml" />
     </modules>
   </component>
 </project>
