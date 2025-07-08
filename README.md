@@ -1,8 +1,8 @@
-# Exercícios com Java Collections: Arrays, ArrayList e HashMap
+# Exercícios com Arrays, Listas e Mapas em Java
 
 ## 📝 Descrição
 
-Este repositório contém uma coleção de exercícios práticos em Java, desenvolvidos para demonstrar a utilização e as principais operações de estruturas de dados essenciais: `Arrays`, `ArrayLists` e `HashMaps`. O projeto serve como um material de estudo e consulta para desenvolvedores que desejam aprimorar suas habilidades com o framework de Collections do Java.
+Este repositório contém uma coleção de exercícios práticos em Java, desenvolvidos para demonstrar a utilização e as principais operações de estruturas de dados essenciais: `Arrays`, `ArrayList` (Listas) e `HashMap` (Mapas). O projeto serve como um material de estudo e consulta para desenvolvedores que desejam aprimorar suas habilidades com as principais estruturas de dados do Java.
 
 ---
 
